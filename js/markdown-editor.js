@@ -1,8 +1,8 @@
 // Copyright (c) Microsoft. All rights reserved. Licensed under the MIT license. See LICENSE in the project root for license information.
 
 var markdownEditor = {
-    applicationId: "5fc58006-b25f-4eaf-8f30-527c6fa7e5f5",
-    defaultFileName: "MD file.md",
+    applicationId: "c6c619bb-6a43-4750-9810-b87072f083d4",
+    defaultFileName: "odsample.txt",
     microsoftGraphApiRoot: "https://graph.microsoft.com/v1.0/",
 
     /************ Open *************/
